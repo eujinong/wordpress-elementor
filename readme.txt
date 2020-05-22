@@ -107,9 +107,3 @@ Check https://www.eletemplator.com/ or https://github.com/dudaster/eletheme
 
 = 1.0.0 =
 * Initial release
-
-== Support ==
-
-https://github.com/dudaster/eletheme
-
-Enjoy. Thanks, Eletemplator | https://www.eletemplator.com/
